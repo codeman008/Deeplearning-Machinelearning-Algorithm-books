@@ -2,6 +2,8 @@
 
 本项目主要更新一些深度学习、机器学习、算法、以及面试相关的书籍&文章&视频，便于大家学习
 
+另外一个项目汇总了一些计算机相关的大牛博客主页：**[计算机相关大牛博客整理](https://github.com/codeman008/Excellent_person_blog)**
+
 :heart:（尊重原创，喜欢纸张的建议大家购买正版图书）:heart:
 
 **:open_book: Deeplearning**
